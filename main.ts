@@ -1,1 +1,1 @@
-game.gameOver(true)
+scene.setBackgroundImage(assets.image`theisland`)
