@@ -2,7 +2,8 @@
     "name": "Liam and Adriel mock ptProject",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "arcade-tile-util": "github:microsoft/arcade-tile-util#v1.1.0"
     },
     "files": [
         "main.blocks",
